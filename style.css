@@ -202,3 +202,20 @@
     top: 10px;
     right: 0;
 }
+.course-sectio-title {
+    font-weight: 600;
+    font-size: 70px;
+    color: #1a1a1a;
+    margin: 60px 0;
+}
+.course-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+.card-big {
+    width: 540px;
+}
+.card-small {
+    width: 360px;
+}

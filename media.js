@@ -24,7 +24,6 @@ wavesurfer.init({
 });
 
 
-
 //загружаем нужную песню
 wavesurfer.load("sound.mp3");
 
