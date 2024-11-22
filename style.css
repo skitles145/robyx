@@ -219,3 +219,33 @@
 .card-small {
     width: 360px;
 }
+.img-container {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 360px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.img-card-1 {background-image: url(img/card-1.png);}
+.btn-time {
+    background-color: #fff;
+    border-radius: 5px;
+    color: #111;
+    padding: 6px 12px;
+    display: inline-block;
+    margin-right: 8px;
+}
+.btn-raiting {
+    width: 77px;
+    background-color: #111;
+    border-radius: 5px;
+    color: #fff;
+    padding: 6px 0px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.img-card-2 {background-image: url(img/card-2.png);}
